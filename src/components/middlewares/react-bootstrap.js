@@ -1,0 +1,10 @@
+export { default as InputGroup } from 'react-bootstrap/InputGroup';
+export { default as FormControl } from 'react-bootstrap/FormControl';
+export { default as Button } from 'react-bootstrap/Button';
+export { default as Card } from 'react-bootstrap/Card';
+export { default as Form } from 'react-bootstrap/Form';
+export { default as Accordion } from 'react-bootstrap/Accordion';
+export { default as Container } from 'react-bootstrap/Container';
+export { default as Row } from 'react-bootstrap/Row';
+export { default as Col } from 'react-bootstrap/Col';
+export { default as Pagination } from 'react-bootstrap/Pagination';

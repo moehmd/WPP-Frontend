@@ -1,0 +1,13 @@
+.search-field{
+    display: flex;
+    padding-bottom: 1rem;
+}
+
+.accordion{
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.clear-button{
+    position: relative;
+}
